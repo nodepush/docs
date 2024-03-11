@@ -1,2 +1,2 @@
-# docs
-Documentation for the nodepush library
+# nodepush/docs - Documentation
+This is a documentation project made using Docusaurus.
